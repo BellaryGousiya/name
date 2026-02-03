@@ -6,8 +6,8 @@ const btn1 =document.getElementById("btn1");
 btn.addEventListener("click",function(){
 
     output1.textContent="BELLARY GOUSIYA";
-    output.textContent="LOVE U KANNA";
-    btn1.textContent = "POTTI__KANNA";
+    output.textContent="BELLARY SAFURA";
+    btn1.textContent = "BELLARY RAFI";
 });
 
 
